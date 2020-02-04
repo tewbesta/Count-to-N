@@ -1,0 +1,10 @@
+C:\Users\tewbe\source\repos\CountToN\bin\Debug\netcoreapp3.1\CountToN.exe
+C:\Users\tewbe\source\repos\CountToN\bin\Debug\netcoreapp3.1\CountToN.deps.json
+C:\Users\tewbe\source\repos\CountToN\bin\Debug\netcoreapp3.1\CountToN.runtimeconfig.json
+C:\Users\tewbe\source\repos\CountToN\bin\Debug\netcoreapp3.1\CountToN.runtimeconfig.dev.json
+C:\Users\tewbe\source\repos\CountToN\bin\Debug\netcoreapp3.1\CountToN.dll
+C:\Users\tewbe\source\repos\CountToN\bin\Debug\netcoreapp3.1\CountToN.pdb
+C:\Users\tewbe\source\repos\CountToN\obj\Debug\netcoreapp3.1\CountToN.AssemblyInfoInputs.cache
+C:\Users\tewbe\source\repos\CountToN\obj\Debug\netcoreapp3.1\CountToN.AssemblyInfo.cs
+C:\Users\tewbe\source\repos\CountToN\obj\Debug\netcoreapp3.1\CountToN.dll
+C:\Users\tewbe\source\repos\CountToN\obj\Debug\netcoreapp3.1\CountToN.pdb
